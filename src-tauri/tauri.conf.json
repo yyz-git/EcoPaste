@@ -27,8 +27,7 @@
 				"transparent": true,
 				"alwaysOnTop": true,
 				"acceptFirstMouse": true,
-				"skipTaskbar": true,
-				"visibleOnAllWorkspaces": true
+				"skipTaskbar": true
 			},
 			{
 				"label": "preference",
